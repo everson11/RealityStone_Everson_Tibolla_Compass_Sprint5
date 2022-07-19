@@ -23,8 +23,15 @@
 - selenium-webdriver > 4.3.0
 ```
 
-## ⏳ Instalação:
-intalação necessárias (bibliotecas)
+# ⏳ Instalação:
+## ⚠️ Importante:
+  chromeDriver
+```sh
+- Baixar a ultima versão do Google Chrome
+- Extrair o zip no diretório: C:\ruby31-x64\bin
+```
+
+intalação necessárias (gems)
 
 ```sh
 - cd /RealityStone_Everson_Tibolla_Compass_Sprint5
