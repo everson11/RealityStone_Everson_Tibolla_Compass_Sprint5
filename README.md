@@ -38,6 +38,11 @@ intalação necessárias (bibliotecas)
 ```sh
 - cucumber -t@'Tag_do_teste'
 ```
+
+ ## ♟️ Execução dos testes gerando um report:
+```sh
+- cucumber features --format html --out reports.html
+```
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 ## 🙋‍♂️Autor
