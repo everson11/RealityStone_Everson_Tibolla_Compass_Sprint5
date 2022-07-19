@@ -21,7 +21,6 @@
 - capybara > 3.37.1
 - site_prism > 3.7.3
 - selenium-webdriver > 4.3.0
-- faker >2.21.0
 ```
 
 ## ⏳ Instalação:
